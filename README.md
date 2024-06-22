@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -20,23 +19,31 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate about the intersection of Machine Learning, Statistics, and Quantitative Research in the field of finance. Aiming to learn further as a Quantitative Researcher and open to new opportunities.</h2></summary>
   </ul>
 </div>
 
+<h2>🎓 Education</h2>
+<ul>
+    <li>Masters in Science - Computer Science & Statistics (Data Science Track) at Harvard University (2024-2026)</li>
+    <li>Financial Mathematics Concentration Cross Registration at MIT Sloan (2024-2026)</li>
+    <li>BE in Computer Science from BITS Pilani (2019-2023)</li>
+</ul>
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+<h2>💼 Work Experience</h2>
+<ul>
+    <li>Part Time - Quant Research Consultant at <a href="[link]">WorldQuant</a> (May 2024 - Present)</li>
+    <li>Full Time - Machine Learning & Data Engineer at <a href="[link]">Rostrum Grand Asset Management</a> (Jan 2023 - Present)</li>
+</ul>
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+<h2>🚀 Projects</h2>
+<h3>Quant Projects</h3>
+<ul>
+    <li><a href="[link]">Jane Street Market Prediction Challenge</a> on Kaggle</li>
+    <li><a href="[link]">Realized Volatility Prediction Challenge</a> by Optiver on Kaggle</li>
+    <li><a href="[link]">Nasdaq Closing Price Prediction Challenge</a> by Optiver on Kaggle</li>
+    <li>Basic overlay of research done at WorldQuant (Coming Soon)</li>
+</ul>
+<h3>ML Projects (Coming Soon)</h3>
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
+<p>Feel free to reach out at <a href="mailto:adityasaxena@g.harvard.edu">adityasaxena@g.harvard.edu</a></p>
