@@ -34,7 +34,7 @@
 </ul>
 
 <h2>🚀 Projects (I do during weekends)</h2>
-<h3>Quant Projects</h3>
+<h3>Quant Projects (along with research papers for reference)</h3>
 <ul>
     <li><a href="https://github.com/aditya-saxena-7/Jane-Street-Market-Prediction">Jane Street Market Prediction Challenge</a> on Kaggle</li>
     <li><a href="https://github.com/aditya-saxena-7/Optiver-Realized-Volatility-Prediction">Realized Volatility Prediction Challenge</a> by Optiver on Kaggle</li>
