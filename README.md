@@ -23,7 +23,7 @@
 <h2>🎓 Education</h2>
 <ul>
     <li>Masters in Science - Computer Science & Statistics (Data Science Track) at Harvard University (Aug 2024 - Dec 2025)</li>
-    <li>Financial Mathematics Concentration Cross Registration at MIT Sloan</li>
+    <li>Financial Mathematics Concentration - Cross Registered at MIT Sloan</li>
     <li>BE in Computer Science from BITS Pilani (Distinction) (Aug 2019 - June 2023)</li>
 </ul>
 
