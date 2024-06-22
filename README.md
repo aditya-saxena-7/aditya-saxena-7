@@ -13,11 +13,12 @@
 </div>
 
 
-<!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">Passionate about the intersection of Machine Learning, Statistics, and Quantitative Research in the field of finance. Aiming to learn further as a Quantitative Researcher and open to new opportunities.</h3></summary>
-  </ul>
+    <ul align="center">
+        <summary>
+            <h3 style="display: inline-block; font-weight: normal;">Passionate about the intersection of Machine Learning, Statistics, and Quantitative Research in the field of finance. Aiming to learn further as a Quantitative Researcher and open to new opportunities.</h3>
+        </summary>
+    </ul>
 </div>
 
 <h2>🎓 Education</h2>
