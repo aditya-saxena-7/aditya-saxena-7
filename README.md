@@ -40,8 +40,14 @@
     <li><a href="https://github.com/aditya-saxena-7/Jane-Street-Market-Prediction">Jane Street Market Prediction Challenge</a> on Kaggle</li>
     <li><a href="https://github.com/aditya-saxena-7/Optiver-Realized-Volatility-Prediction">Realized Volatility Prediction Challenge</a> by Optiver on Kaggle</li>
     <li><a href="https://github.com/aditya-saxena-7/Nasdaq-Closing-Price-Prediction-Challenge-An-Optiver-Case-Study">Nasdaq Closing Price Prediction Challenge</a> by Optiver on Kaggle</li>
-    <li>Basic overlay of research done at WorldQuant (Coming Soon)</li>
+    <li>My research findings as a Quantitative Researcher at WorldQuant (non-confidential):
+        <ul>
+            <li><a href="https://github.com/aditya-saxena-7/my-2-cents-on-using-IPCA-for-momentum-and-reversal">Momentum and Reversal using the Instrumented Principal Component Analysis</a></li>
+        </ul>
+    </li>
 </ul>
+
+
 <h3>ML Projects (Adding Soon)</h3>
 
 <p>Feel free to reach out at <a href="mailto:adityasaxena@g.harvard.edu">adityasaxena@g.harvard.edu</a></p>
