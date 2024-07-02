@@ -40,7 +40,8 @@
     <li><a href="https://github.com/aditya-saxena-7/Dynamic-Beta-Variability-in-Foreign-Exchange-Returns-Using-Instrumented-PCA">Dynamic Beta Variability in Foreign Exchange Returns Using Instrumented PCA</a>: National Undergraduate Research, Abu Dhabi, 2022 <a href="https://github.com/aditya-saxena-7/Dynamic-Beta-Variability-in-Foreign-Exchange-Returns-Using-Instrumented-PCA">[PDF]</a></li>
     <li>Credit Risk Assessment Model for UAE’s Commercial Bank: A Machine Learning Approach: National Undergraduate Research, Abu Dhabi, 2021 [PDF]</li>
     <li><a href="https://link.springer.com/chapter/10.1007/978-981-16-1103-2_11">Deep Learning-Based Smart Parking Management System and Business Model</a>: Springer Journal, CVIP 2020</li>
-    <li>Lithium-Ion Battery Life Prediction from Initial Stage-Cycles Using ML: Granted IP Right by the UAE Govt [PDF]</li>
+    <li>Lithium-Ion Battery Life Prediction from Initial Stage-Cycles Using ML: Intellectual Property Right [PDF]</li>
+    <li>Real-Time Drowsiness Detection Using Computer Vision and Raspberry Pi to Prevent Car & Road Accidents: Intellectual Property Right [PDF]</li>
 </ul>
 
 <h2>🚀 Projects (I do during weekends)</h2>
@@ -55,7 +56,5 @@
         </ul>
     </li>
 </ul>
-
-<h3>ML Projects (Adding Soon)</h3>
 
 <p>Feel free to reach out at <a href="mailto:adityasaxena@g.harvard.edu">adityasaxena@g.harvard.edu</a></p>
