@@ -8,7 +8,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/aditya-saxena-7/aditya-saxena-7.github.io/blob/master/files/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -38,10 +38,11 @@
 <ul>
     <li><a href="https://github.com/aditya-saxena-7/Cost-Efficient-Stock-Forecasting-with-Enhanced-LightGBM">Cost Efficient Stock Forecasting with Enhanced LightGBM And Optuna Framework</a>, IEEE International Conference MoSICom 2022 <a href="https://github.com/aditya-saxena-7/Cost-Efficient-Stock-Forecasting-with-Enhanced-LightGBM/blob/master/Cost%20Efficient%20Stock%20Forecasting%20with%20Enhanced%20LightGBM.pdf"> [PDF]</a></li>
     <li><a href="https://github.com/aditya-saxena-7/Dynamic-Beta-Variability-in-Foreign-Exchange-Returns-Using-Instrumented-PCA">Dynamic Beta Variability in Foreign Exchange Returns Using Instrumented PCA</a>: National Undergraduate Research, Abu Dhabi, 2022 <a href="https://github.com/aditya-saxena-7/Dynamic-Beta-Variability-in-Foreign-Exchange-Returns-Using-Instrumented-PCA">[PDF]</a></li>
-    <li>Credit Risk Assessment Model for UAE’s Commercial Bank: A Machine Learning Approach: National Undergraduate Research, Abu Dhabi, 2021 [PDF]</li>
+    <li>Credit Risk Assessment Model for UAE’s Commercial Bank: A Machine Learning Approach: National Undergraduate Research, Abu Dhabi, 2021  <a href="https://aditya-saxena-7.github.io/files/Research/Credit_Risk_Assessment_Model_for_UAEs_Commercial_Banks.pdf">[PDF]</a></li>
     <li><a href="https://link.springer.com/chapter/10.1007/978-981-16-1103-2_11">Deep Learning-Based Smart Parking Management System and Business Model</a>: Springer Journal, CVIP 2020</li>
-    <li>Lithium-Ion Battery Life Prediction from Initial Stage-Cycles Using ML: Intellectual Property Right [PDF]</li>
-    <li>Real-Time Drowsiness Detection Using Computer Vision and Raspberry Pi to Prevent Car & Road Accidents: Intellectual Property Right [PDF]</li>
+    <li>Lithium-Ion Battery Life Prediction from Initial Stage-Cycles Using ML: Intellectual Property Right  <a href="https://aditya-saxena-7.github.io/files/Research/Lithium-Ion%20Battery%20Life%20Prediction%20Based%20on%20Initial%20Stage-Cycles%20Using%20%20Machine%20Learning.pdf">
+[PDF]</a></li>
+    <li>Real-Time Drowsiness Detection Using Computer Vision and Raspberry Pi to Prevent Car & Road Accidents: Intellectual Property Right  <a href="https://aditya-saxena-7.github.io/files/Research/Real-Time%20Drowsiness%20Detection%20Using%20Computer%20Vision%20and%20Raspberry%20Pi%20to%20Prevent%20Car%20%26%20Road%20Accidents%20.pdf">[PDF]</a></li>
 </ul>
 
 <h2>🚀 Projects (I do during weekends)</h2>
