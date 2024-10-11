@@ -16,7 +16,7 @@
 <div id="user-content-toc">
     <ul align="center">
         <summary>
-            <h3 style="display: inline-block; font-weight: normal;">Interested in the intersection of Machine Learning, Statistics, and Quantitative Research in finance.</h3>
+            <h3 style="display: inline-block; font-weight: normal;">Interested in the intersection of Machine Learning and Statistics</h3>
         </summary>
     </ul>
 </div>
@@ -24,7 +24,7 @@
 <h2>🎓 Education</h2>
 <ul>
     <li>Masters in Science - Computer Science & Statistics (Data Science Track) at Harvard University (Aug 2024 - Dec 2025)</li>
-    <li>Financial Mathematics Concentration - Cross Registered at MIT Sloan</li>
+    <li> Mathematics Concentration - Cross Registered at MIT Sloan</li>
     <li>BE in Computer Science from BITS Pilani (Distinction) (Aug 2019 - June 2023)</li>
 </ul>
 
